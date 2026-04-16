@@ -7,7 +7,7 @@
 ╚═╝░░╚══╝╚══════╝░░░╚═╝░░░░░░░░░╚═════╝░╚═════╝░░╚════╝░<br>
 
 # What's Here!🦑
-* Labs:
+* **Labs:**
   * [Lab 2-1: Subnet Design](https://github.com/kerryallen89/NET-330-01/wiki/Lab-2%E2%80%901-%7C-Subnet-Design)
   * [Lab 3-2: Lab Prep](https://github.com/kerryallen89/NET-330-01/wiki/Lab-3%E2%80%902-%7C-Lab-Prep)
   * [Lab 3-3: DHCP Server In Packet Tracer](https://github.com/kerryallen89/NET-330-01/wiki/Lab-3%E2%80%903-%7C-DHCP-Server-In-Packet-Tracer)
